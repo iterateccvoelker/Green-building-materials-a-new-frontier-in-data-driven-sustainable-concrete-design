@@ -2,10 +2,6 @@
 
 This repository contains the code, data, and results associated with the paper "Green Building Materials: A New Frontier in Data-Driven Sustainable Concrete Design". The corresponding author is Christoph Völker (christoph.voelker@bam.de).
 
-## Abstract
-
-This paper presents a novel approach for developing sustainable building materials through ecologically informed Sequential Learning. Large data sets with different types of alkali-activated building materials, including fly ash and blast furnace slag-based concrete, were compiled from the literature to develop and evaluate this approach. Based on these data an extensive experimental study was conducted to compare the performance of the proposed material design methods under simulated laboratory conditions derived from real-world scenarios. The results indicate a significant reduction in development time and lower research costs enabled through predictions with machine learning. This work challenges common practices in data-driven materials development for building materials. Our results show, training data required for data-driven design may be much less than commonly suggested. Further, it is more important to establish a practical design framework than to develop more accurate models. This approach can be immediately implemented into practical applications and can be translated into significant advances in sustainable building materials development.
-
 ## Contents
 
 This repository contains the following files and folders:
