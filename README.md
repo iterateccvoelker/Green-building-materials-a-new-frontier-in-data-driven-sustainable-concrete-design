@@ -27,3 +27,8 @@ This repository contains the following files and folders:
         - `MEI_Results_Exploit/`: A directory containing the result files for the SL benchmarking with the exploit strategy, along with a Matlab script `Plot_resultsMEI.m` to read and plot the results.
         - `MLI_Results_Explore/`: A directory containing the result files for the SL benchmarking with the explorative strategy, along with a Matlab script `Plot_resultsMLI.m` to read and plot the results.
 - `SLAMD_Benchmarking_App/`: A directory containing the SL Benchmarking app SLAMD, which has created the SL results. It has been cloned from the repo https://github.com/BAMresearch/SequentialLearningApp and contains all necessary files and a detailed `README.md` that explains installation and usage of SLAMD.
+
+## Preview SL reuslts
+
+![MLI Performance Plot](./Data_and_Code/Results/SL_Results_Matlab/MLI_Results_Explore/MLI_perf.png)
+
