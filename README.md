@@ -30,6 +30,5 @@ This repository contains the following files and folders:
 
 ## Preview SL results
 
-![MLI Performance Plot]([./Data_and_Code/Results/SL_Results_Matlab/MLI_Results_Explore/MLI_perf.png](https://github.com/BAMcvoelker/Green-building-materials-a-new-frontier-in-data-driven-sustainable-concrete-design/blob/main/Data_and_Code/Results/SL_Results_Matlab/MLI_Results_Expore/MLI_perf.png))
-
+![image](https://user-images.githubusercontent.com/71640597/221935554-ae366458-df3e-4fd5-82d7-9f47b59c3373.png)
 
