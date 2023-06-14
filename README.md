@@ -1,6 +1,6 @@
 # Data driven design of Alkali-activated concrete using Sequential Learning 
 
-This repository contains the code, data, and results associated with the paper "Green Building Materials: A New Frontier in Data-Driven Sustainable Concrete Design". The corresponding author is Christoph Völker (christoph.voelker@bam.de).
+This repository contains the code, data, and results associated with the paper "Data driven design of Alkali-activated concrete using Sequential Learning". The corresponding author is Christoph Völker (christoph.voelker@bam.de).
 
 ## Contents
 
